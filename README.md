@@ -1,6 +1,6 @@
 # Bengaluru-House-Price-Prediction
 Project Description:
-This project was designed to predict house prices in Bengaluru, India using regression analysis. The project used a dataset of over 10,000 house sales to train a regression model. The model was then used to predict the prices of houses in different areas of Bengaluru.
+This project is designed to predict house prices in Bengaluru, India using regression analysis. The project used a dataset of over 10,000 house sales to train a regression model. The model is then used to predict the prices of houses in different areas of Bengaluru.
 
 Project Goals:
 The goals of this project were to:
