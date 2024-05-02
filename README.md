@@ -9,7 +9,7 @@ Use the model to help potential homebuyers make informed decisions about buying 
 Demonstrate the potential of machine learning in the real estate industry.
 
 Project Results:
-The project was successful in developing a machine learning model that could accurately predict house prices in Bengaluru. The model was able to predict prices with an accuracy of over 90%. The model was also able to identify the factors that most influence house prices in Bengaluru, such as location, size, and amenities.
+The project was successful in developing a machine learning model that could accurately predict house prices in Bengaluru. The model was able to predict prices with an accuracy of over 70%. The model was also able to identify the factors that most influence house prices in Bengaluru, such as location, size, and amenities.
 
 Project Conclusion:
 This project demonstrated the potential of machine learning to be used in the real estate industry to help potential homebuyers make informed decisions about buying a house. The project also showed that machine learning can be used to identify the factors that most influence house prices.
